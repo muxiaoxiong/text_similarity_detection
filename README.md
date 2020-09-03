@@ -12,4 +12,7 @@ jieba / TF-IDF / MultinomialNB / KMeans / editdistance / TopN
 主要工作：
 对采集的文档进行数据清洗，采用TF-IDF提取文本特征，使用朴素贝叶斯分类器进行写作风格分类，并针对模仿自己写作风格的文章进行抄袭检测。先采用聚类算法对文档进行聚类降维，针对预测写作风格一致的作品，进行相似度检测及编辑距离检测
 
+数据集：
 
+链接：https://pan.baidu.com/s/1DZ7B6RXKOMjPvN_-aHLCYg 
+提取码：h8z4
